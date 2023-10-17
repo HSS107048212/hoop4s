@@ -29,7 +29,7 @@
     4. 開發Google API金鑰版，以放在Server運行
     5. 
 
-T-point取物站_Server執行(原colab手動執行)
+【測試中】T-point取物站_Server執行(原colab手動執行)
     1. 將單筆訂單金額小計轉換成為T-point
     2. 開發Google API金鑰版，工讀生輸入「訂單編號寄」出T-point通知
     3. --讀取POS機台的資料
